@@ -1,4 +1,4 @@
 * **ROLE** Customer Operations:
 * **Name** Ross O'Brien
 * **Slack** Robrien
-* **GitHub** This site was built using [GitHub Pages](https://github.com/rossmylesobrien)
+* **My GitHub Profile** [Ross Myles O'Brien](https://github.com/rossmylesobrien)
