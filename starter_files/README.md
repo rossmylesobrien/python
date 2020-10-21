@@ -1,3 +1,3 @@
-* Customer Operations:
-* Ross O'Brien
-* Robrien
+* **ROLE** Customer Operations:
+* **Name** Ross O'Brien
+* **Slack** Robrien
